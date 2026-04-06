@@ -4,3 +4,10 @@ this is as reference to sqlnotes and git practise so
 not thing to worry so i wish practise git here
 hi this is to check the modification so i have to learn git here and learn more and more 
 this make me git confortable
+then i have learneed some her like 
+git add sql.txt
+git commit -m "this is git practise only no sql"
+ we should not do git add sql.txt no enter here then typee
+ git add sql.txt
+ git commit -m " i am willing to learn git easily"
+ 
